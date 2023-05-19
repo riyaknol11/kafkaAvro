@@ -1,0 +1,11 @@
+{
+  "name": "Greetings",
+  "namespace": "com.knoldus",
+  "type": "record",
+  "fields": [
+    {
+      "name": "greetings",
+      "type": "string"
+    }
+  ]
+}
